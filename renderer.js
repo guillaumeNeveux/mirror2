@@ -17,5 +17,6 @@ function firstLoadImg(link, id) {
 function removeLoadImg(id) {
     document.getElementById(id).remove();
     document.getElementById("_wrapper").style.display = "block";
-    responsiveVoice.speak("Bonjour  guillaume", "French Female");
+
+    //responsiveVoice.speak("Bonjour  guillaume", "French Female");
 }
