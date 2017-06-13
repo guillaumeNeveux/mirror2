@@ -1,3 +1,8 @@
-/**
- * Created by Guilaume on 12/06/2017.
- */
+import headtrackr '/headtrackr/headtrackr.js';
+
+var videoInput = document.getElementById('inputVideo');
+var canvasInput = document.getElementById('inputCanvas');
+
+var htracker = new headtrackr.Tracker();
+htracker.init(videoInput, canvasInput);
+htracker.start();
