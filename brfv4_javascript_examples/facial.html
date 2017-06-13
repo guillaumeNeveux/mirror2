@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="utf-8">
+
+	<link rel="stylesheet" type="text/css" href="css/brfv4_examples_theme.css">
+	<title>BRFv4 - HTML5/Javascript Face Tracking: Beyond Reality Face</title>
+
+</head>
+
+<body>
+<div id="_wrapper" style="display: none;">
+	<div id="_content">
+		<video  id="_webcam"></video>
+		<canvas id="_imageData"></canvas>
+		<canvas id="_faceSub"></canvas>
+		<canvas id="_t3d"></canvas>
+		<canvas id="_f3d"></canvas>
+		<canvas id="_drawing"></canvas>
+		<div id="_stats"></div>
+		<input onclick='responsiveVoice.speak("Bonjour valou");' type='button' value='Play' style="position: absolute; bottom: 0; right: 0;"/>
+
+	</div>
+</div>
+
+</body>
+	<script src="../renderer.js"></script>
+	<script src="js/lib/createjs/preloadjs-0.6.2.min.js"></script>
+	<script src="js/BRFv4Demo.js"></script>
+	<script src='https://code.responsivevoice.org/responsivevoice.js'></script>
+	<script>
+		window.onload = brfv4.example.start; //see js/BRFv4Demo.js
+	</script>
+</html>

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="utf-8">
+
+	<title>BRFv4 - HTML5/Javascript Face Tracking: Beyond Reality Face</title>
+
+	<script>
+		var brfv4 = {locateFile: function(fileName) { return "js/lib/brf/" + fileName; }};
+	</script>
+	<script src="js/lib/brf/BRFv4_JS_TK090617_v4.0RC1_trial.js"></script>
+
+</head>
+
+<body>
+
+<img 	id="_image" src="assets/brfv4_portrait_marcel.jpg" style="display: none;"/>
+<canvas id="_imageData"></canvas>
+
+<script>
+
+	function initMinimal() {
+
+		function loadImage() {
+
+			// Get image from DOM
+			var image = document.getElementById("_image");
+
+			// Load and init SDK
+			initBRF(image.width, image.height);
+		}
+
+		function initBRF(width, height) {
+
+			var image = document.getElementById("_image");
+			var imageData = document.getElementById("_imageData");
+
+			imageData.width = width;
+			imageData.height = height;
+			imageData.style.position = "absolute";
+
+			var imageDataCtx = imageData.getContext("2d");
+
+			var brfManager = new brfv4.BRFManager();
+			var resolution = new brfv4.Rectangle(0, 0, width, height);
+
+			var timeoutSDK = -1;
+
+			function waitForSDK() {
+
+				if(brfv4.sdkReady) {
+
+					onReadySDK();
+
+				} else {
+
+					clearTimeout(timeoutSDK);
+					timeoutSDK = setTimeout(waitForSDK, 100);
+				}
+			}
+
+			function onReadySDK() { initSDK(); }
+
+			function initSDK() {
+
+				if(!brfv4.sdkReady) {
+
+					waitForSDK();
+
+				} else {
+
+					brfManager.init(resolution, resolution, "com.tastenkunst.brfv4.js.examples.minimal.image");
+
+					var i = 0;
+					var numUpdates = 10;
+
+					imageDataCtx.drawImage(image, 0, 0, resolution.width, resolution.height);
+
+					for(i = 0; i < numUpdates; i++) {
+						brfManager.update(imageDataCtx.getImageData(0, 0, resolution.width, resolution.height).data);
+					}
+
+					brfManager.getFaces();
+
+					var faces = brfManager.getFaces();
+
+					for(i = 0; i < faces.length; i++) {
+
+						var face = faces[i];
+
+						if(	face.state == brfv4.BRFState.FACE_TRACKING_START ||
+							face.state == brfv4.BRFState.FACE_TRACKING) {
+
+							imageDataCtx.strokeStyle="#00a0ff";
+
+							for(var k = 0; k < face.vertices.length; k += 2) {
+								imageDataCtx.beginPath();
+								imageDataCtx.arc(face.vertices[k], face.vertices[k + 1], 2, 0, 2 * Math.PI);
+								imageDataCtx.stroke();
+							}
+						}
+					}
+				}
+			}
+
+			initSDK();
+		}
+
+		loadImage();
+	}
+
+	window.onload = initMinimal;
+
+</script>
+
+</body>
+
+</html>
