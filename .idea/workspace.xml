@@ -1,7 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff6a643e-cbcd-4f65-9450-49a5de015e15" name="Default" comment="" />
+    <list default="true" id="ff6a643e-cbcd-4f65-9450-49a5de015e15" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/.settings/.jsdtscope" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/.settings/org.eclipse.wst.jsdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/FaceShape_points.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/beyond-reality-face.com.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/css/brf_examples.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/examples/ExampleBase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/examples/ExampleCandideTracking.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/examples/ExampleFaceDetection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/examples/ExampleFaceTracking.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/examples/ExamplePointTracking.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/examples/hires/ExampleCandideTracking1280x720.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/examples/hires/ExampleFaceDetection1280x720.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/examples/hires/ExampleFaceTracking1280x720.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/examples/hires/ExamplePointTracking1280x720.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/examples/images/ExampleFaceDetectionImage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/examples/images/ExampleFaceTrackingImage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/examples/specials/ExampleComponentFlow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/lib/brf/BRF_NXT_JS_TK200215_v3.0.16_trial.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/lib/brf/BRF_NXT_JS_TK200215_v3.0.16_trial.js.mem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/lib/brf/BRF_NXT_public_API.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/lib/createjs/bitmapdata-1.0.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/lib/createjs/easeljs-0.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/lib/createjs/preloadjs-0.4.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/js/lib/stats/stats.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/media/assets/brf_nxt_logo_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/media/assets/brf_nxt_logo_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/media/assets/play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/media/images/brf_example_image_chris.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/bin/media/images/brf_example_image_marcel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/AC_OETags.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/ExampleWebcamFaceEstimation_Output.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-A.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-B.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-C.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-D.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-E.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-F.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-G.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-H.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-I.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-J.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-K.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-L.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-M.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-N.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-O.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-P.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-Q.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-R.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-S.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-T.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-U.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-V.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-W.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-X.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-Y.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/all-index-Z.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/asdoc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/class-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/BRFCandideShape.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/BRFFaceShape.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/BRFManager.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/BRFMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/BRFRegionOfInterest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/BRFState.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/BeyondRealityFaceManager.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/ExampleWebcamFaceEstimation_Output.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/vars/BeyondRealityFaceVars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/vars/FaceDetectionVars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/vars/FaceTrackingVars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/vars/PointTrackingVars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/vars/class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/vars/package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/cookies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/help.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/images/AirIcon12x12.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/images/P_AlternativeMetadataIndicator_30x28_N.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/images/collapsed.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/images/detailHeaderRule.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/images/detailSectionHeader.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/images/expanded.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/images/inherit-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/images/inheritedSummary.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/images/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/images/titleTableBottom.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/images/titleTableMiddle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/images/titleTableTop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/index-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/override.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/package-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/title-bar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/eula.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/headtrackr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js-objectdetect" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/brfv4_javascript_examples/js/BRFv4Demo.js" afterPath="$PROJECT_DIR$/brfv4_javascript_examples/js/BRFv4Demo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/renderer.js" afterPath="$PROJECT_DIR$/renderer.js" />
+    </list>
     <ignored path="electron-quick-start.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -45,11 +156,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="renderer.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="renderer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/renderer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -58,8 +169,8 @@
       <file leaf-file-name="BRFv4Demo.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/BRFv4Demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="80" column="37" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="37" />
+            <state relative-caret-position="225">
+              <caret line="89" column="25" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -75,21 +186,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BRFv4SetupChooser.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/utils/BRFv4SetupChooser.js">
+      <file leaf-file-name="BRFv4ExampleChooser.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/utils/BRFv4ExampleChooser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="37" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="37" />
+            <state relative-caret-position="495">
+              <caret line="33" column="108" selection-start-line="33" selection-start-column="91" selection-end-line="33" selection-end-column="108" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BRFv4ExampleChooser.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/utils/BRFv4ExampleChooser.js">
+      <file leaf-file-name="smile_detection.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/examples/face_tracking/smile_detection.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,8 +209,18 @@
       <file leaf-file-name="track_single_face.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/examples/face_tracking/track_single_face.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state relative-caret-position="195">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BRFv4SetupExample.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/utils/BRFv4SetupExample.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -137,13 +258,15 @@
         <option value="$PROJECT_DIR$/brfv4_javascript_examples/js/utils/BRFv4DownloadChooser.js" />
         <option value="$PROJECT_DIR$/brfv4_javascript_examples/js/utils/BRFv4SetupChooser.js" />
         <option value="$PROJECT_DIR$/brfv4_javascript_examples/css/brfv4_examples_theme.css" />
-        <option value="$PROJECT_DIR$/brfv4_javascript_examples/js/BRFv4Demo.js" />
         <option value="$PROJECT_DIR$/brfv4_javascript_examples/facial.html" />
         <option value="$PROJECT_DIR$/facialRecognition.js" />
-        <option value="$PROJECT_DIR$/renderer.js" />
         <option value="$PROJECT_DIR$/brfv4_javascript_examples/js/examples/face_detection/detect_in_center.js" />
         <option value="$PROJECT_DIR$/brfv4_javascript_examples/js/examples/face_detection/tez.js" />
+        <option value="$PROJECT_DIR$/renderer.js" />
+        <option value="$PROJECT_DIR$/brfv4_javascript_examples/js/examples/face_tracking/smile_detection.js" />
         <option value="$PROJECT_DIR$/brfv4_javascript_examples/js/examples/face_tracking/track_single_face.js" />
+        <option value="$PROJECT_DIR$/brfv4_javascript_examples/js/BRFv4Demo.js" />
+        <option value="$PROJECT_DIR$/brfv4_javascript_examples/js/utils/BRFv4SetupExample.js" />
       </list>
     </option>
   </component>
@@ -204,86 +327,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="electron-quick-start" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="electron-quick-start" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="brfv4_javascript_examples" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="electron-quick-start" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="electron-quick-start" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="brfv4_javascript_examples" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="electron-quick-start" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="electron-quick-start" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="brfv4_javascript_examples" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="electron-quick-start" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="electron-quick-start" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="brfv4_javascript_examples" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="face_detection" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -293,7 +336,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="track_&#9;FILE&#9;file:///Users/Guilaume/Documents/Master/mirror2/electron-quick-start/brfv4_javascript_examples/js/examples/face_tracking/track_single_face.js&#10;facial&#9;FILE&#9;file:///Users/Guilaume/Documents/Master/mirror2/electron-quick-start/brfv4_javascript_examples/facial.html" />
+    <property name="SearchEverywhereHistoryKey" value="smile&#9;FILE&#9;file:///Users/Guilaume/Documents/Master/mirror2/electron-quick-start/brfv4_javascript_examples/js/examples/face_tracking/smile_detection.js&#10;brfManager&#9;null&#9;null&#10;brfMan&#9;FILE&#9;file:///Users/Guilaume/Documents/Master/mirror2/electron-quick-start/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/BRFManager.html&#10;track_&#9;FILE&#9;file:///Users/Guilaume/Documents/Master/mirror2/electron-quick-start/brfv4_javascript_examples/js/examples/face_tracking/track_single_face.js&#10;facial&#9;FILE&#9;file:///Users/Guilaume/Documents/Master/mirror2/electron-quick-start/brfv4_javascript_examples/facial.html" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -339,12 +382,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1497256602571</updated>
-      <workItem from="1497256603781" duration="19471000" />
+      <workItem from="1497256603781" duration="24751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19471000" />
+    <option name="totallyTimeSpent" value="24751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -354,7 +397,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -587,14 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/BRFv4Demo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="80" column="37" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/facial.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
@@ -622,14 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/utils/BRFv4ExampleChooser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/examples/face_detection/tez.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -638,10 +665,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/examples/face_tracking/track_single_face.js">
+    <entry file="file://$PROJECT_DIR$/js-objectdetect/examples/js/x3dom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state relative-caret-position="234">
+          <caret line="3774" column="81" selection-start-line="3774" selection-start-column="81" selection-end-line="3774" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BRF_NXT_JS_EXAMPLES/doc/com/tastenkunst/as3/brf/nxt/BRFManager.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -649,7 +684,47 @@
     <entry file="file://$PROJECT_DIR$/renderer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/examples/face_tracking/smile_detection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/examples/face_tracking/track_single_face.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/utils/BRFv4ExampleChooser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="108" selection-start-line="33" selection-start-column="91" selection-end-line="33" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/BRFv4Demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="89" column="25" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brfv4_javascript_examples/js/utils/BRFv4SetupExample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
           <folding />
         </state>
       </provider>

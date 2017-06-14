@@ -88,6 +88,7 @@ brfv4.example.start = function() {
 	], function() {
 
 		brfv4.example.init("webcam");
+		
 
 	});
 

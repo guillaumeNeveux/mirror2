@@ -18,5 +18,11 @@ function removeLoadImg(id) {
     document.getElementById(id).remove();
     document.getElementById("_wrapper").style.display = "block";
 
+    //setTimeout(speak, 6000, "bonjour guillaume");
+    //setTimeout(speak, 12000, "bonjour valentin");
     //responsiveVoice.speak("Bonjour  guillaume", "French Female");
+}
+
+function speak(text) {
+    responsiveVoice.speak(text, "French Female");
 }
