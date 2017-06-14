@@ -13,19 +13,19 @@ let mainWindow
 
 function createWindow () {
   // Create the browser window.
-  mainWindow = new BrowserWindow({height: 1000, width: 1000, frame: false})
+  mainWindow = new BrowserWindow({height: 1280, width: 720, frame: false})
 
   // and load the index.html of the app.
   mainWindow.loadURL(url.format({
-    //pathname: path.join(__dirname, 'index.html'),
-    pathname: path.join(__dirname, '/brfv4_javascript_examples/facial.html'),
+    pathname: path.join(__dirname, 'index.html'),
+    //pathname: path.join(__dirname, '/brfv4_javascript_examples/facial.html'),
     protocol: 'file:',
     slashes: true
   }))
 
   // Open the DevTools.
 
-  mainWindow.webContents.openDevTools()
+  //mainWindow.webContents.openDevTools()
 
   // Emitted when the window is closed.
   mainWindow.on('closed', function () {

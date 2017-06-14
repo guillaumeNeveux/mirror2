@@ -1,13 +1,16 @@
+const remote = require('electron').remote;
 
-firstLoadImg('../images/Mirror-Mirror-Design/logo.png', 'logo');
+document.body.style.backgroundColor = "black";
+
+firstLoadImg('images/Mirror-Mirror-Design/logo.png', 'logo');
 
 setTimeout(removeLoadImg, 3000, 'logo');
 
 function firstLoadImg(link, id) {
     var myImg = new Image();
     myImg.src = link;
-    myImg.width = "1000";
-    myImg.height = "1000";
+    myImg.width = "720";
+    myImg.height = "1280";
     myImg.id = id;
 
     document.body.appendChild(myImg); // L'image est ajoutée au DOM
@@ -16,13 +19,6 @@ function firstLoadImg(link, id) {
 
 function removeLoadImg(id) {
     document.getElementById(id).remove();
-    document.getElementById("_wrapper").style.display = "block";
-
-    //setTimeout(speak, 6000, "bonjour guillaume");
-    //setTimeout(speak, 12000, "bonjour valentin");
-    //responsiveVoice.speak("Bonjour  guillaume", "French Female");
-}
-
-function speak(text) {
-    responsiveVoice.speak(text, "French Female");
+    var window = remote.getCurrentWindow();
+    window.close();
 }
